@@ -13,6 +13,12 @@ sudo apt update
 sudo apt install ffmpeg yt-dlp
 ```
 
+### Su ArchLinux
+
+```bash
+sudo pacman -Sy ffmpeg yt-dlp
+```
+
 ### Su macOS (con Homebrew)
 
 ```bash
